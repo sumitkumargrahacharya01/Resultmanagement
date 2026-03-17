@@ -1,0 +1,36 @@
+body {
+font-family: Arial, sans-serif;
+background: #f2f2f2;
+}
+
+.login-box {
+width: 350px;
+margin: 120px auto;
+padding: 30px;
+background: white;
+text-align: center;
+box-shadow: 0 0 10px gray;
+}
+
+.login-box h2 {
+color: #003366;
+}
+
+input, select {
+width: 90%;
+padding: 10px;
+margin: 10px 0;
+}
+
+button {
+width: 95%;
+padding: 10px;
+background: #003366;
+color: white;
+border: none;
+cursor: pointer;
+}
+
+button:hover {
+background: #0055aa;
+}
